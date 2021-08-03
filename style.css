@@ -11,4 +11,5 @@ background: radial-gradient(circle, rgba(151,234,219,0.8099614845938375) 0%, rgb
     align-items: center;
     max-height: auto;
     line-height:30px;
+    font-size: larger;
 }
